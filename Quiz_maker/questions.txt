@@ -1,0 +1,62 @@
+
+
+
+Q. How we can convert the given list into the set ?
+    a) set(list)
+    b) list(set)
+    c) set{list}
+    d) list[set]
+
+Q. What is the use of the % operator ?
+    a) To find the division
+    b) To find the remainder
+    c) To find the power
+    d) To find the quotient
+
+Q. Select which is true:
+    a) We use for loop when we want to perform a task indefinitely until a particular condition is met
+    b) else clause of for loop is executed when the loop terminates abruptly
+    c) else clause of for loop is executed when the loop terminates naturally
+    d) All the above
+
+Q. Which two statements are used to implement iteration?
+    a) FOR and WHILE
+    b) IF and WHILE
+    c) ELSE and WHILE
+    d) IF and ELSE
+
+Q. Which keyword is used for function?
+    a) Def
+    b) Fun
+    c) Define
+    d) Function
+
+Q. Which of the following items are present in the function header?
+    a) function name
+    b) function name and parameter list
+    c) parameter list
+    d) return value
+
+Q. l=[1,2,3,4], then l[3] is ?
+    a) 4
+    b) 3
+    c) 2
+    d) 1 
+
+Q. What is list data type in Python ?
+    a) collection of string
+    b) collection of integer number
+    c) collection of different data type
+    d) collection of same data type
+
+Q. which of the following function are used to convert the string into the list ?
+    a) map()
+    b) convertor()
+    c) split()
+    d) lambda
+
+Q. The expression a{5} will match _____________ characters with the previous regular expression.
+    a) 5 or less
+    b) exactly 5
+    c) 5 or more
+    d) exactly 4
